@@ -1,0 +1,10 @@
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.Form1.resources
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.Properties.Resources.resources
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.csproj.GenerateResource.cache
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\TempGeo\TempGeo\bin\Debug\TempGeo.exe.config
+C:\Users\chaly\source\repos\TempGeo\TempGeo\bin\Debug\TempGeo.exe
+C:\Users\chaly\source\repos\TempGeo\TempGeo\bin\Debug\TempGeo.pdb
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.exe
+C:\Users\chaly\source\repos\TempGeo\TempGeo\obj\Debug\TempGeo.pdb
